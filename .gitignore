@@ -1,0 +1,12 @@
+
+/*
+
+!/Publicador_MQTT/
+!/Suscriptor_MQTT/
+!/README.md
+!/.gitignore
+build/
+sdkconfig
+.settings/
+.project
+.cproject
